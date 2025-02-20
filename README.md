@@ -1,4 +1,4 @@
 # kernel_scratch_0
 
 Reference:
-https://github.com/Khadem1/kernel_scratch_0.git
+https://www.linuxjournal.com/content/what-does-it-take-make-kernel-0
